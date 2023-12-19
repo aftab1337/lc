@@ -149,4 +149,4 @@ async def on_message_edit(message, before):
     await log_channel.send(embed=embed)
 
 # Run the bot with your token
-client.run("MTE4MzQ1NTcxMzQwNjc2NzMyMA.Ga4LVc.RX7S1J0-A7SgTro6A372J3X82JVdc46YnW0SOs")
+client.run("")
